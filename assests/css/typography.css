@@ -1,0 +1,29 @@
+.navbar a{
+  color: #46494F;
+  font-weight: 500 ;
+  font-size: 18px;
+  text-decoration: none;
+  }
+  .customers-testomonil .customer-details h2{
+    color: black;
+    /* text-align: center; */
+
+  }
+  .choose-your-weed .choose-weed h2{
+    color: black;
+  }
+  .button-tab-container h3{
+    color: black;
+  }
+footer{
+  background: linear-gradient(180deg, #1A1E26 0%, #01100B 100%);
+
+}
+
+.footer-container h4{
+  color: #fff;
+}
+.footer-more-details  h4{
+  color: #fff;
+}
+

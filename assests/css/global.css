@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #FFFFFFB2;
+  ;
+}
+html,body{
+  height: 100%;
+  width: 100%;
+
+}
+.wrapper{
+  width: 1280px;
+  margin: 0 auto;
+}
+p{
+  font-family: "Lexend", sans-serif;
+  font-size: 14px;
+  color: gray;
+}
+h2{
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 64px;
+  line-height: 70px;
+  color: #ffffff;
+  letter-spacing: -4px;
+  text-transform: uppercase;
+}
+h3{
+  font-family: "Lexend Mega", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+h4{
+  font-size: 20px;
+  line-height: 30px;
+  font-family: "Lexend", sans-serif;
+}
+h6{  font-family: "Lexend Mega", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+font-size: 14px;
+line-height: 21px;
+}
+
+
